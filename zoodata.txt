@@ -1,0 +1,3 @@
+001222          Billy         Mammal            Bat     0     1
+123456          Mandy      Oviparous          Goose     9     0
+101010          Grimm         Mammal          whale     0     1
